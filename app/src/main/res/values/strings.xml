@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sndabd</string>
+    <string-array name="index">
+        <item>andr</item>
+        <item>nil</item>
+        <item>wady</item>
+    </string-array>
+</resources>
